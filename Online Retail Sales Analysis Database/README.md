@@ -62,6 +62,10 @@ The database consists of the following tables:
 **Customer Spending:**
 <img width="1363" height="791" alt="image" src="https://github.com/user-attachments/assets/f8851f00-5f5d-422b-b203-bcecd8b40b20" />
 
+**Monthly Revenue:**
+<img width="1438" height="822" alt="image" src="https://github.com/user-attachments/assets/4f073b78-3b0b-42a3-89c4-f2354d4a14fd" />
+
+
 
 
 
