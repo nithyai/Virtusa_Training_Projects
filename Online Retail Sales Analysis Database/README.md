@@ -35,3 +35,18 @@ The database consists of the following tables:
 1. Open MySQL Workbench
 2. Run the SQL script file
 3. Execute queries to view results
+
+**OUTPUT:**
+
+**Show all tables in the database:**
+<img width="1407" height="1024" alt="image" src="https://github.com/user-attachments/assets/42a7b0ce-7447-45b4-858d-eb5e9ad692c4" />
+
+**View data inside each table**:
+<img width="1407" height="1018" alt="image" src="https://github.com/user-attachments/assets/cd7e1bca-c5d4-47c0-9dc6-7d0b97f0e6d6" />
+
+
+
+
+
+ 
+
