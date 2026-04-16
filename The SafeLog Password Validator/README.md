@@ -1,55 +1,49 @@
-Password Validator Project
-Project Description
+<img width="847" height="372" alt="image" src="https://github.com/user-attachments/assets/5c6cbdc4-7339-418f-ac10-15312f4cd5a0" />**Password Validator Project**
+**Project Description**
 
 This project is a simple Java program that checks whether a password entered by the user is strong or not. It validates the password based on basic rules like length, uppercase letter, and digit. If the password is not valid, it shows a specific message and asks the user to try again until a correct password is entered.
 
-Tools Used
+**Tools Used**
 Java
 VS Code / Eclipse
 Scanner class
-Password Rules
+
+**Password Rules**
 Password must be at least 8 characters long
 It must contain at least one uppercase letter
 It must contain at least one digit (0-9)
-Working Process
+
+**Working Process**
 
 The program takes input from the user and checks each condition one by one. If any rule is not satisfied, it displays the exact reason for failure. The process repeats until the user enters a valid password.
 
-Sample Output
-Case 1: Too short password
+**Sample Output**
+**Case 1:** Too short password
 
-Input:
+**Input:** abc
 
-abc
-
-Output:
+**Output:**
 ![alt text](image.png)
 
-Case 2: Missing digit
+**Case 2:** Missing digit
 
-Input:
+**Input:**HelloWorld
 
-HelloWorld
-
-Output:
+**Output:**
 ![alt text](image-1.png)
 
-Case 3: Missing uppercase letter
+**Case 3:** Missing uppercase letter
 
-Input:
+**Input:**java1234
 
-java1234
-
-Output:
+**Output:**
 ![alt text](image-2.png)
 
-Case 4: Correct password
+**Case 4:** Correct password
 
-Input:
+**Input:**Hello123
 
-Hello123
-
-Output:
+**Output:**
 ![alt text](image-3.png)
 
 Conclusion
