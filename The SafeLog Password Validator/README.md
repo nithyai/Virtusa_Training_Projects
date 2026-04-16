@@ -1,4 +1,3 @@
-<img width="847" height="372" alt="image" src="https://github.com/user-attachments/assets/5c6cbdc4-7339-418f-ac10-15312f4cd5a0" />**Password Validator Project**
 **Project Description**
 
 This project is a simple Java program that checks whether a password entered by the user is strong or not. It validates the password based on basic rules like length, uppercase letter, and digit. If the password is not valid, it shows a specific message and asks the user to try again until a correct password is entered.
