@@ -1,4 +1,4 @@
-# Expense Tracker
+# Smart Expense Tracker with Insights
 
 ## Description
 
